@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Felipe Sanchez</h1>
-🌱**WEB Development Full-Stack**
-<br>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
