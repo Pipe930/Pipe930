@@ -66,7 +66,7 @@
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pipe930&show_icons=true&theme=dark&locale=en" alt="Pipe930"/></p>
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
