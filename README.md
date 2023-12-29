@@ -33,9 +33,9 @@
 
 <h4> Databases </h4>
 <span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white&color=%2330A9E5">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle_Sql-3776AB?style=for-the-badge&logo=oracle&logoColor=white&color=%23FF8133">
 </span>
 
 <h4> IDE </h4>
