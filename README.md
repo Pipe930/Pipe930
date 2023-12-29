@@ -17,6 +17,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![ANGULAR](https://img.shields.io/badge/Angular-3776AB?style=for-the-badge&logo=angular&color=%23FF1515))
 
 <hr width="36%" >
 
