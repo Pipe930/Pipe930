@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Sanchez</h1>
 🌱**WEB Development Full-Stack**
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 <br>
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
@@ -60,7 +59,7 @@
 </span>
 
 <hr width="36%" >
-<h3>My GitHub Stats</h3>
+<h3>My GitHub Stats <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"></h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
