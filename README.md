@@ -21,6 +21,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![ANGULAR](https://img.shields.io/badge/Angular-3776AB?style=for-the-badge&logo=angular&color=%23FF1515)
 ![MYSQL](https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white&color=%2330A9E5)
+![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white&color=%232E2E2E)
 
 
 <hr width="36%" >
