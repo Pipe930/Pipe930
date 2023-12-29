@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Angular-3776AB?style=for-the-badge&logo=angular&color=%23FF1515">
   <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white&color=%23177837">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white&color=%232B9FFF">
 </span>
 
 <h4> Databases </h4>
