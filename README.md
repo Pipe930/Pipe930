@@ -58,6 +58,8 @@
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_Web_Service-3776AB?style=for-the-badge&logo=amazon&logoColor=white&color=%23232f3e">
+  <img src="https://img.shields.io/badge/jasmine-3776AB?style=for-the-badge&logo=jasmine&logoColor=white&color=%238A4182">
+  <img src="https://img.shields.io/badge/jest-3776AB?style=for-the-badge&logo=jest&logoColor=white&color=%23FF5733">
 </span>
 
 <hr width="36%" >
