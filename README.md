@@ -26,9 +26,6 @@
   <img src="https://img.shields.io/badge/Angular-3776AB?style=for-the-badge&logo=angular&color=%23FF1515">
   <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white&color=%23177837">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -41,7 +38,7 @@
 <h4> IDE </h4>
 <span>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
+<img src="https://img.shields.io/badge/Visual_Studio-3776AB?style=for-the-badge&logo=visualstudio&logoColor=white&color=%238F3BBF">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
 <h4> Operating System </h4>
