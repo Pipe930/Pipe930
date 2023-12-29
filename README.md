@@ -63,9 +63,13 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipe930&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="Pipe930" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipe930&show_icons=true&theme=dark&locale=en&layout=compact" alt="Pipe930"/></p>
 
 <br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Pipe930&show_icons=true&theme=dark&locale=en" alt="Pipe930"/></p>
+<br><br><br><br><br><br><br>
+
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
