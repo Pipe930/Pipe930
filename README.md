@@ -1,4 +1,5 @@
-🌱 I’m Felipe Sanchez **WEB Development Full-Stack**
+<h1 align="center">Hi 👋, I'm Felipe Sanchez</h1>
+🌱**WEB Development Full-Stack**
 <img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
 <br>
 
