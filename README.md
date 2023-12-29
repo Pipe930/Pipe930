@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Sanchez</h1>
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> 
+## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 <h4> Languages </h4>
 <span> 
