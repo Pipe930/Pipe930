@@ -15,10 +15,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=black&color=%23FFF415">
   <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white&color=%231551FF">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white&color=%23FF5F15">
+  <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white&color=%23158AFF">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
