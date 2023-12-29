@@ -59,13 +59,11 @@
 </span>
 
 <hr width="36%" >
-GitHub Stats
+<h3>My GitHub Stats</h3>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
 
-<p align="center">
-    <img alt="status github, commits, etc..." width="500px" src="https://github-readme-stats.vercel.app/api?username=Pipe930&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8"/> 
-  <br>
-    <img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pipe930&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 
 <br><br><br><br><br><br><br>
 <hr width="60%" >
