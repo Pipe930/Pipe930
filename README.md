@@ -19,7 +19,7 @@ height="40" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noref
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipe930&show_icons=true&theme=dark&locale=en&layout=compact" alt="Pipe930" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -35,7 +35,7 @@ height="40" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noref
 ------
 
 
-[Pipe930]([https://github.com/ANii693](https://github.com/Pipe930))
+[Pipe930](https://github.com/Pipe930)
 
 Last Edited on: 28/02/2023
 
