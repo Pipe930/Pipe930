@@ -54,33 +54,10 @@
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img src="https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white&color=%232E2E2E">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-  <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
 </span>
-<h3 align="left">Languages and Tools:</h3>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DJANGO](https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white&color=%23177837)
-![HTML](https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white&color=%23FF5F15)
-![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white&color=%23158AFF)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=black&color=%23FFF415)
-![TypeScript](https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white&color=%231551FF)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![ANGULAR](https://img.shields.io/badge/Angular-3776AB?style=for-the-badge&logo=angular&color=%23FF1515)
-![MYSQL](https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white&color=%2330A9E5)
-![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white&color=%232E2E2E)
-
 
 <hr width="36%" >
 
