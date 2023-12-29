@@ -84,11 +84,6 @@
 
 ------
 
-
-[Pipe930](https://github.com/Pipe930)
-
-Last Edited on: 28/02/2023
-
 <!--
 **Pipe930/Pipe930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
