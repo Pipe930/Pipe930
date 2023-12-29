@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felipe Sanchez</h1>
 
+![VisitorCount](https://profile-counter.glitch.me/{kajalkumari23}/count.svg)
+
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 <h4> Languages </h4>
