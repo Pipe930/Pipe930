@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html5&logoColor=white&color=%23FF5F15">
   <img src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css3&logoColor=white&color=%23158AFF">
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
+  <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </span>
 
 <h4> Frameworks </h4>
