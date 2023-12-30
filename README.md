@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Django-3776AB?style=for-the-badge&logo=django&logoColor=white&color=%23177837">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white&color=%232B9FFF">
+  <img src="https://img.shields.io/badge/Bootstrap-FCC624?style=for-the-badge&logo=bootstrap&logoColor=white&color=%237757C6">
 </span>
 
 <h4> Databases </h4>
