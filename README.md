@@ -41,8 +41,8 @@
 <span>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Arch_Linux-3776AB?style=for-the-badge&logo=archlinux&logoColor=white&color=%232B32FF">
+  <img src="https://img.shields.io/badge/Kali_Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=white&color=%232A79BB">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
