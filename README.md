@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Felipe Sanchez</h1>
 
-<img align="center" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+<img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 
 ## Skills <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="30px">&nbsp;
 
