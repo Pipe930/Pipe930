@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## Skills <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="30px">&nbsp;
 
 <h4> Languages </h4>
 <span> 
