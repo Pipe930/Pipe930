@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white&color=%232E2E2E">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazo%20Web%20Services-3776AB?style=for-the-badge&logo=Amazonwebservices&color=%231C2833">
+  <img src="https://img.shields.io/badge/Amazon%20Web%20Services-3776AB?style=for-the-badge&logo=Amazonwebservices&color=%231C2833">
   <img src="https://img.shields.io/badge/jasmine-3776AB?style=for-the-badge&logo=jasmine&logoColor=white&color=%238A4182">
   <img src="https://img.shields.io/badge/jest-3776AB?style=for-the-badge&logo=jest&logoColor=white&color=%23FF5733">
   <img src="https://img.shields.io/badge/Virtual_Box-3776AB?style=for-the-badge&logo=virtualbox&logoColor=white&color=%232F4F7D">
