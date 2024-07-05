@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felipe, Software Developer</h1>
+<h1 align="center">Hi 👋, I'm Felipe</h1>
 
 <img align="center" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
