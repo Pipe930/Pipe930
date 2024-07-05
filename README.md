@@ -5,7 +5,8 @@
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
 <h4> Languages </h4>
-<span> 
+<span>
+  <img src="https://img.shields.io/badge/C%2B%2B-3776AB?style=for-the-badge&logo=c%2B%2B&color=%232471A3">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=black&color=%23FFF415">
   <img src="https://img.shields.io/badge/Typescript-3776AB?style=for-the-badge&logo=typescript&logoColor=white&color=%231551FF">
@@ -51,6 +52,7 @@
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&color=%231C2833">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white&color=%232E2E2E">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
