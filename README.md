@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/Android_Studio-3776AB?style=for-the-badge&logo=android-studio&logoColor=white&color=%232ABB70">
   <img src="https://img.shields.io/badge/VIM-FCC624?style=for-the-badge&logo=vim&logoColor=white&color=%23218947">
+  <img src="https://img.shields.io/badge/Pycharm-3776AB?style=for-the-badge&logo=pycharm&color=%231FA073">
 </span>
 
 <h4> Operating System </h4>
