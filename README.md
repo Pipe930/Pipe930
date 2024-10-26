@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Ionic-3776AB?style=for-the-badge&logo=ionic&logoColor=white&color=%232B9FFF">
   <img src="https://img.shields.io/badge/Bootstrap-FCC624?style=for-the-badge&logo=bootstrap&logoColor=white&color=%237757C6">
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white&color=%23ff2121">
 </span>
 
 <h4> Databases </h4>
@@ -31,6 +32,7 @@
   <img src="https://img.shields.io/badge/Mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white&color=%2330A9E5">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle_Sql-3776AB?style=for-the-badge&logo=oracle&logoColor=white&color=%23FF8133">
+  <img src="https://img.shields.io/badge/Postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white&color=%23447cfd">
 </span>
 
 <h4> IDE </h4>
