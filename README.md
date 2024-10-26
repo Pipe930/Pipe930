@@ -38,7 +38,7 @@
 <h4> IDE </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio-3776AB?style=for-the-badge&logo=visualstudio&logoColor=white&color=%238F3BBF">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfdnNjb2RlMjwvdGl0bGU%2BPHBhdGggZD0iTTExLjcyLDE4LjY4NSw0LjgzNywyMy44NjksMiwyMi45MjIsOSwxNiwyLDkuMDc3LDQuODM3LDguMTNsNi44ODMsNS4xODQsMTEuNDMzLTExLjNMMzAsNC45MjJWMjcuMDc3bC02Ljg0NywyLjkwOVpNMTUuMjg3LDE2bDcuODY1LDUuOTIzVjEwLjA3NloiIHN0eWxlPSJmaWxsOiMwMDdhY2MiLz48L3N2Zz4%3D&color=%23344c85">
   <img src="https://img.shields.io/badge/Android_Studio-3776AB?style=for-the-badge&logo=android-studio&logoColor=white&color=%232ABB70">
   <img src="https://img.shields.io/badge/VIM-FCC624?style=for-the-badge&logo=vim&logoColor=white&color=%23218947">
   <img src="https://img.shields.io/badge/Pycharm-3776AB?style=for-the-badge&logo=pycharm&color=%231FA073">
@@ -58,8 +58,6 @@
   <img src="https://img.shields.io/badge/Docker-3776AB?style=for-the-badge&logo=docker&color=%231C2833">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Shell_Script-3776AB?style=for-the-badge&logo=gnu-bash&logoColor=white&color=%232E2E2E">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20Web%20Services-3776AB?style=for-the-badge&logo=Amazonwebservices&color=%231C2833">
   <img src="https://img.shields.io/badge/jasmine-3776AB?style=for-the-badge&logo=jasmine&logoColor=white&color=%238A4182">
   <img src="https://img.shields.io/badge/jest-3776AB?style=for-the-badge&logo=jest&logoColor=white&color=%23FF5733">
