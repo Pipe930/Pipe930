@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Manjaro-000000?style=for-the-badge&logo=manjaro&color=%2320741a">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
