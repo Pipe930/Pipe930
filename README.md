@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Felipe Sánchez 👋</h1>
+<h1 align="center">Hola, soy Felipe 👋</h1>
 <h3 align="center">Desarrollador de Software | Backend & Full Stack</h3>
 
 <p align="center">
