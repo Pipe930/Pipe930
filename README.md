@@ -58,7 +58,9 @@
 
 ### Testing
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jasmine-3776AB?style=for-the-badge&logo=jasmine&logoColor=white&color=%238A4182">
+  <img src="https://img.shields.io/badge/jest-3776AB?style=for-the-badge&logo=jest&logoColor=white&color=%23FF5733">
+  <img src="https://img.shields.io/badge/Pytest-hola?style=for-the-badge&logo=pytest&color=%232A4B80">
 </p>
 
 
