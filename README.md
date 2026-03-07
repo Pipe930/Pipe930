@@ -90,21 +90,11 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pipe930&show_icons=true&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pipe930&layout=compact&theme=dark"/>
-</p>
-
----
-
 ## 📫 Contacto
 
 - GitHub: **@Pipe930**
+- Discord: **@elpipex7**
+- Linkedin: [!ElPipexDev](www.linkedin.com/in/elpipexdev)
 - Abierto a colaborar en proyectos backend, APIs y sistemas
 
 <!--
