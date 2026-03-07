@@ -94,7 +94,7 @@
 
 - GitHub: **@Pipe930**
 - Discord: **@elpipex7**
-- Linkedin: [!ElPipexDev](www.linkedin.com/in/elpipexdev)
+- Linkedin: [ElPipexDev](https://www.linkedin.com/in/elpipexdev/)
 - Abierto a colaborar en proyectos backend, APIs y sistemas
 
 <!--
